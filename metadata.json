@@ -1,0 +1,6 @@
+{
+  "name": "Telkom Indonesia & Telkomsel 2025 Strategy Command Center",
+  "description": "Dynamic modular executive dashboard for monitoring 2025 Telkomsel / PT Telkom Indonesia KPIs, legacy migration, retention & ARPU simulation, 5G/subsea infrastructure risks, and AI-driven strategic planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
